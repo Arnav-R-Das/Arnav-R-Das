@@ -1,6 +1,3 @@
-![Arnav's LinkedIn Banner](https://github.com/ArnavDas23/ArnavDas23/assets/127012417/b856c3d4-76d3-46e0-8e00-9d7635e3b848)
-<br><br>
-
 ## My skillset 🧑‍💻
 <br>
 
