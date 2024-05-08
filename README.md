@@ -9,11 +9,11 @@ Java | Python | C++ | C
 <br><br>
 
 **FRONT-END** <br>
-Bootstrap | CSS | HTML
+Bootstrap | CSS | HTML5
 <br><br>
 
 **BACK-END** <br>
-MySQL | Nginx
+Oracle | MySQL | Nginx
 <br><br>
 
 **APIs / OTHER** <br>
@@ -23,6 +23,17 @@ GitHub
 ## My projects 💻
 -  [Portfolio website](https://www.arnavdas.in) - Bootstrap, CSS
 -  [Personal vlog](https://www.arnavdas.in/vlogs) - Bootstrap, CSS
+-  Company finance management system - Oracle, PHP
+-  University timetable generator - CherryPy, Python
+-  Parking ticket managment system - C
+<br><br><br>
+
+## Certifications 📚
+-  [Azure AI Fundamentals (AI-900)](https://futureskillsprime.in/artificial-intelligence-and-machine-learning/azure-ai-fundamentals-ai-900)
+-  [Programming Basics for Automation Engineers
+](https://futureskillsprime.in/course/programming-basics-for-automation-engineers)
+-  [Cisco NetAcad - Introduction to cybersecurity
+](https://futureskillsprime.in/cybersecurity/cisco-netacad-introduction-to-cyber-security)
 <br><br><br>
 
 ## Education 🎓
@@ -30,10 +41,6 @@ Pursuing B.Tech in Computer Science & Engineering @ GSFC University. <br>
 Specializing in AI & ML.
 <br><br><br>
 
-## Certifications 🗞
--  ...
-<br><br><br>
-
-## Connect with me 📬
+## Connect with me 💬
 -  arnavrdas@gmail.com
 -  www.linkedin.com/in/arnavrdas
