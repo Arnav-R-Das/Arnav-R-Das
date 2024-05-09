@@ -72,10 +72,11 @@ _Built ghi_
 -->
 
 ## Education 🎓
-Pursuing B.Tech in Computer Science & Engineering @ GSFC University. <!-- [GSFC University](www.linkedin.com/in/______) --> <br>
+Pursuing B.Tech in Computer Science & Engineering @ [GSFC University](https://www.gsfcuniversity.ac.in/) <br>
 Specializing in AI & ML.
 <br><br><br>
 
 ## Connect with me 💬
+
 -  arnavrdas@gmail.com
 -  www.linkedin.com/in/arnavrdas
