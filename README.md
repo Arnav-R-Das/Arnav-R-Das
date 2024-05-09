@@ -20,20 +20,27 @@ Oracle | MySQL | Nginx
 GitHub
 <br><br><br>
 
-<!--
 ## Experience 👨‍💼
--  **Ex-Intern Software developer @ [abc company](https://www.companyWebsite.com)** - Worked on abc projects, managed people, ...
--  **Ex-Intern Software developer @ [def company](https://www.companyWebsite.com)** - Handled def tasks
--  **Ex-Intern Software developer @ [ghi company](https://www.companyWebsite.com)** - Built ghi
+<br>
+
+**Ex-Intern Software developer** @ [abc company](https://www.companyWebsite.com) (Jun 2024 - Jul 2024)
+<br> _Worked on abc projects, managed people, ..._
+<br><br>
+
+**Ex-Intern Software developer** @ [def company](https://www.companyWebsite.com) (Jan 2024 - Feb 2024)
+<br> _Handled def tasks_
+<br><br>
+
+**Ex-Intern Software developer** @ [ghi company](https://www.companyWebsite.com) (Jun 2023 - Jul 2023)
+<br> _Built ghi_
 <br><br><br>
--->
 
 ## My Projects 💻
 -  [Portfolio website](https://www.arnavdas.in) - Bootstrap | CSS
 -  [Personal vlog](https://www.arnavdas.in/vlogs) - Bootstrap | CSS
--  <!-- [Company finance management system](https://github.com/ArnavDas23/--------) --> Company finance management system - Oracle | PHP
--  <!-- [University timetable generator](https://github.com/ArnavDas23/--------) --> University timetable generator - CherryPy | Python
--  <!-- [Parking ticket managment system](https://github.com/ArnavDas23/--------) --> Parking ticket managment system - C
+-  [Company finance management system](https://github.com/ArnavDas23/--------) - Oracle | PHP
+-  [University timetable generator](https://github.com/ArnavDas23/--------) - CherryPy | Python
+-  [Parking ticket managment system](https://github.com/ArnavDas23/--------) - C
 <br><br>
 
 ## Certifications 📚
@@ -44,23 +51,19 @@ GitHub
 ](https://futureskillsprime.in/cybersecurity/cisco-netacad-introduction-to-cyber-security)
 <br><br><br>
 
-<!--
-## Competitive coding
+## Competitive coding 🥇
 -  [Hacker Rank](https://www.hackerrank.com) - ...
 -  [Top Coder](https://www.topcoder.com) - ...
 -  [Leet Code](https://www.leetcode.com) - ...
 -  [Hacker Eart](https://www.hackerearth.com) - ...
 -  [Geeks for geeks](https://www.geeksforgeeks.org) - ...
 <br><br><br>
--->
 
-<!--
 ## Achievements 🏆
 -  **XYZ Winner 2024**
 -  **...**
 -  **...**
 <br>
--->
 
 ## Education 🎓
 Pursuing B.Tech in Computer Science & Engineering @ GSFC University <!-- [GSFC University](www.linkedin.com/in/______). --> <br>
