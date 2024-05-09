@@ -20,6 +20,12 @@ Oracle | MySQL | Nginx
 GitHub
 <br><br><br>
 
+## Experience 👨‍💼
+-  **Ex-Intern Software developer @ [abc company](https://www.companyWebsite.com)** - Worked on abc projects, managed people, ...
+-  **Ex-Intern Software developer @ [def company](https://www.companyWebsite.com)** - Handled def tasks
+-  **Ex-Intern Software developer @ [ghi company](https://www.companyWebsite.com)** - Built ghi
+<br><br><br>
+
 ## My Projects 💻
 -  [Portfolio website](https://www.arnavdas.in) - Bootstrap | CSS
 -  [Personal vlog](https://www.arnavdas.in/vlogs) - Bootstrap | CSS
@@ -42,12 +48,6 @@ GitHub
 -  [Leet Code](https://www.leetcode.com) - ...
 -  [Hacker Eart](https://www.hackerearth.com) - ...
 -  [Geeks for geeks](https://www.geeksforgeeks.org) - ...
-<br><br><br>
-
-## Experience 👨‍💼
--  **Ex-Intern Software developer @ [abc company](https://www.companyWebsite.com)** - Worked on abc projects, managed people, ...
--  **Ex-Intern Software developer @ [def company](https://www.companyWebsite.com)** - Handled def tasks
--  **Ex-Intern Software developer @ [ghi company](https://www.companyWebsite.com)** - Built ghi
 <br><br><br>
 
 ## Achievements 🏆
