@@ -20,11 +20,13 @@ Oracle | MySQL | Nginx
 GitHub
 <br><br><br>
 
+<!--
 ## Experience 👨‍💼
 -  **Ex-Intern Software developer @ [abc company](https://www.companyWebsite.com)** - Worked on abc projects, managed people, ...
 -  **Ex-Intern Software developer @ [def company](https://www.companyWebsite.com)** - Handled def tasks
 -  **Ex-Intern Software developer @ [ghi company](https://www.companyWebsite.com)** - Built ghi
 <br><br><br>
+-->
 
 ## My Projects 💻
 -  [Portfolio website](https://www.arnavdas.in) - Bootstrap | CSS
@@ -42,6 +44,7 @@ GitHub
 ](https://futureskillsprime.in/cybersecurity/cisco-netacad-introduction-to-cyber-security)
 <br><br><br>
 
+<!--
 ## Competitive coding
 -  [Hacker Rank](https://www.hackerrank.com) - ...
 -  [Top Coder](https://www.topcoder.com) - ...
@@ -49,12 +52,15 @@ GitHub
 -  [Hacker Eart](https://www.hackerearth.com) - ...
 -  [Geeks for geeks](https://www.geeksforgeeks.org) - ...
 <br><br><br>
+-->
 
+<!--
 ## Achievements 🏆
 -  **XYZ Winner 2024**
 -  **...**
 -  **...**
 <br>
+-->
 
 ## Education 🎓
 Pursuing B.Tech in Computer Science & Engineering @ GSFC University <!-- [GSFC University](www.linkedin.com/in/______). --> <br>
