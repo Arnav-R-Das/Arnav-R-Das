@@ -40,9 +40,11 @@ _Built ghi_
 ## My Projects 💻
 -  [Portfolio website](https://www.arnavdas.in) - Bootstrap | CSS
 -  [Personal vlog](https://www.arnavdas.in/vlogs) - Bootstrap | CSS
--  <!-- [Company finance management system](https://github.com/ArnavDas23/--------) --> Company finance management system - Oracle | PHP
--  <!-- [University timetable generator](https://github.com/ArnavDas23/--------) --> University timetable generator - CherryPy | Python
--  <!-- [Parking ticket managment system](https://github.com/ArnavDas23/--------) --> Parking ticket managment system - C
+<!-- -  [StoryOfMyLife  (Gallery App)](https://github.com/ArnavDas23/--------) - ReactNative -->
+<!-- -  [StayFocusd remix  (Chrome extension)](https://github.com/ArnavDas23/--------) - JavaScript -->
+<!-- -  [Company finance management system](https://github.com/ArnavDas23/--------) - Oracle | PHP -->
+<!-- -  [University timetable generator](https://github.com/ArnavDas23/--------) - CherryPy | Python -->
+<!-- -  [Parking ticket managment system](https://github.com/ArnavDas23/--------)- C  -->
 <br><br>
 
 ## Certifications 📚
