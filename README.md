@@ -41,28 +41,31 @@ _Built ghi_
 ## My Projects 💻
 
 <br> **FULL STACK**
--  [Portfolio website](https://www.arnavdas.in) <br> Nginx | PHP | JavaScript | CSS
--  [BookMyTurf](http://github/ArnavDas23/BookMyTurf) <br> PHP | MySQL | JavaScript | CSS
--  [Instagram Clone](https://www.arnavdas.in/vlogs) <br> PHP | MySQL | JavaScript | CSS
--  [E-Commerce](http://github/ArnavDas23/E-Commerce) <br> JavaScript | CSS
+-  [TurfPlex](https://github.com/ArnavDas23/TurfPlex) <!-- (https://arnavdas.in/TurfPlex) --> <br> PHP | MySQL | JavaScript | CSS
+-  [Portfolio website](https://arnavdas.in) <br> Nginx | PHP | JavaScript | CSS
+-  [Vlogs](https://arnavdas.in/vlogs) <br> PHP | MySQL | JavaScript | CSS
+-  [BookMyTurf](https://github.com/ArnavDas23/BookMyTurf) <!-- (https://arnavdas.in/BookMyTurf) --> <br> PHP | MySQL | JavaScript | CSS
+-  [E-Commerce](https://github.com/ArnavDas23/E-Commerce) <!-- (https://arnavdas.in/E-Commerce) --> <br> JavaScript | CSS
 <br>
 
 **CHROME EXTENSIONS**
--  [Todo list](http://github/ArnavDas23/Todo-list) <br> LocalStorage | JavaScript | CSS
+-  [Todo list](https://github.com/ArnavDas23/Todo-list) <br> LocalStorage | JavaScript | CSS
 -  [URL Blocker](https://github.com/ArnavDas23/URL-Blocker) <br> JavaScript | CSS
 <br>
 
 **OTHER**
--  [Company finance management system](https://github.com/ArnavDas23/Company-finance-management-system) <br> Oracle | PHP
--  [University timetable generator](https://github.com/ArnavDas23/University-Timetable-generator) <br> Python | CherryPy | CSS | HTML
+-  [Company Finance Manager](https://github.com/ArnavDas23/Company-Finance-Manager) <br> Oracle | PHP
+-  [Academic Timetable Generator](https://github.com/ArnavDas23/Academic-Timetable-Generator) <br> Python | CherryPy | CSS | HTML
 -  [Contact Manager](https://github.com/ArnavDas23/Contact-Manager) <br> Java
--  [Parking ticket managment system](https://github.com/ArnavDas23/Parking-ticket-management-system) <br> C
+-  [Parking Ticket Manager](https://github.com/ArnavDas23/Parking-Ticket-Manager) <br> C
 <!-- -  [StoryOfMyLife  (Gallery App)](https://github.com/ArnavDas23/--------) ﹥ ReactNative -->
 <br><br>
 
 ## Certifications 📚
--  [NPTEL: Responsible & Safe AI Systems]() <!-- Link certificate -->
+ <!-- Upload certificates on google drive & add links here -->
+-  [NPTEL: Responsible & Safe AI Systems]()
 -  [Azure: AI Fundamentals (AI-900)](https://futureskillsprime.in/artificial-intelligence-and-machine-learning/azure-ai-fundamentals-ai-900)
+-  [C-DAC Bootcamp: UAS/Drone Technology]()
 -  [Cisco NetAcad: Introduction to cybersecurity](https://futureskillsprime.in/cybersecurity/cisco-netacad-introduction-to-cyber-security)
 -  [FutureSkillsPrime: Programming Basics for Automation Engineers](https://futureskillsprime.in/course/programming-basics-for-automation-engineers)
 <br><br><br>
