@@ -55,7 +55,7 @@ _Built ghi_
 <br>
 
 **PROGRAMMING**
--  [AI Text Classifier](https://github.com/ArnavDas23/AI-Text_Classifier) <br> Python | CatBoost | Pandas | RE | NLTK | Sklearn | Collections
+-  [AI Text Classifier](https://github.com/ArnavDas23/AI-Text-Classifier) <br> Python | CatBoost | Pandas | RE | NLTK | Sklearn | Collections
 -  [Academic Timetable Generator](https://github.com/ArnavDas23/Academic-Timetable-Generator) <br> Python | CherryPy | CSS | HTML
 -  [Contact Manager](https://github.com/ArnavDas23/Contact-Manager) <br> Java
 -  [Parking Ticket Manager](https://github.com/ArnavDas23/Parking-Ticket-Manager) <br> C
