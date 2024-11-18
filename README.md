@@ -1,7 +1,7 @@
 ![Arnav's LinkedIn Banner](https://github.com/ArnavDas23/ArnavDas23/assets/127012417/b856c3d4-76d3-46e0-8e00-9d7635e3b848)
 <br><br>
 
-## My Skillset 🧑‍💻
+## SKILLS
 <br>
 <!--
 **AI/ML** <br>
@@ -38,7 +38,7 @@ _Built ghi_
 <br><br><br>
 -->
 
-## My Projects 💻
+## PROJECTS
 
 <br> **FULL STACK**
 -  [TurfPlex](https://github.com/ArnavDas23/TurfPlex) <!-- (https://arnavdas.in/TurfPlex) --> <br> PHP | MySQL | JavaScript | CSS
@@ -60,9 +60,14 @@ _Built ghi_
 -  [Contact Manager](https://github.com/ArnavDas23/Contact-Manager) <br> Java
 -  [Parking Ticket Manager](https://github.com/ArnavDas23/Parking-Ticket-Manager) <br> C
 <!-- -  [StoryOfMyLife  (Gallery App)](https://github.com/ArnavDas23/--------) ﹥ ReactNative -->
+<br>
+
+## EDUCATION
+Pursuing B.Tech in Computer Science & Engineering @ [GSFC University](https://www.gsfcuniversity.ac.in/).<br>
+Specializing in AI & ML.<br>
 <br><br>
 
-## Certifications 📚
+## CERTIFICATIONS
  <!-- Upload certificates on google drive & add links here -->
 -  [NPTEL: Responsible & Safe AI Systems]()
 -  [Azure: AI Fundamentals (AI-900)](https://futureskillsprime.in/artificial-intelligence-and-machine-learning/azure-ai-fundamentals-ai-900)
@@ -89,12 +94,7 @@ _Built ghi_
 <br>
 -->
 
-## Education 🎓
-Pursuing B.Tech in Computer Science & Engineering @ [GSFC University](https://www.gsfcuniversity.ac.in/).<br>
-Specializing in AI & ML.<br>
-<br><br>
+## CONTACTS
 
-## Connect with me 💬
-
--  arnavrdas@gmail.com
--  www.linkedin.com/in/arnavrdas
+-  [linkedin.com/in/arnavrdas](https://www.linkedin.com/in/arnavrdas)
+-  [arnavrdas@gmail.com](mailto:arnavrdas@gmail.com)
