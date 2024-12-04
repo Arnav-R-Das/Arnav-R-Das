@@ -18,25 +18,15 @@ Python | Java | C++ | C
 <br><br>
 
 **OTHER** <br>
-GitHub | CherryPy
+GitHub
 <br><br><br>
 
-<!--
-## Experience 👨‍💼
+## EXPERIENCE
 <br>
 
-**Ex-Intern Software developer** @ [abc company](https://www.companyWebsite.com) (Jun 2024 - Jul 2024) <br>
-_Worked on abc projects, managed people, ..._
-<br><br>
-
-**Ex-Intern Software developer** @ [def company](https://www.companyWebsite.com) (Jan 2024 - Feb 2024) <br>
-_Handled def tasks_
-<br><br>
-
-**Ex-Intern Software developer** @ [ghi company](https://www.companyWebsite.com) (Jun 2023 - Jul 2023) <br>
-_Built ghi_
+**Intern Full-stack Developer** @ [MaMo TechnoLabs](https://mamotechnolabs.com/) (Dec 2024 - Jan 2025) <br>
+_Working on an e-commerce website_
 <br><br><br>
--->
 
 ## PROJECTS
 
@@ -94,7 +84,7 @@ Specializing in AI & ML.<br>
 <br>
 -->
 
-## CONTACTS
+## CONTACT
 
 -  [linkedin.com/in/arnavrdas](https://www.linkedin.com/in/arnavrdas)
 -  [arnavrdas@gmail.com](mailto:arnavrdas@gmail.com)
