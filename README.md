@@ -40,7 +40,8 @@ _Working on an e-commerce website_
 <br>
 
 **CHROME EXTENSIONS**
--  [Simple Todo List](https://github.com/ArnavDas23/Simple-Todo-List) <br> LocalStorage | JavaScript | CSS
+-  [Eisenhower Matirx](https://github.com/ArnavDas23/Eisenhower-Matirx) <br> JavaScript | LocalStorage | CSS
+-  [Simple Todo List](https://github.com/ArnavDas23/Simple-Todo-List) <br> JavaScript | LocalStorage | CSS
 -  [URL Blocker](https://github.com/ArnavDas23/URL-Blocker) <br> JavaScript | CSS
 <br>
 
