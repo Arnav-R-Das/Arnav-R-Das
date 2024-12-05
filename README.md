@@ -21,13 +21,6 @@ Python | Java | C++ | C
 GitHub
 <br><br><br>
 
-## EXPERIENCE
-<br>
-
-**Intern Full-stack Developer** @ [MaMo TechnoLabs](https://mamotechnolabs.com/) (Dec 2024 - Jan 2025) <br>
-_Working on an e-commerce website_
-<br><br><br>
-
 ## PROJECTS
 
 <br> **FULL STACK**
@@ -53,10 +46,17 @@ _Working on an e-commerce website_
 <!-- -  [StoryOfMyLife  (Gallery App)](https://github.com/ArnavDas23/--------) ﹥ ReactNative -->
 <br>
 
+## EXPERIENCE
+<br>
+
+**Intern Full-stack Developer** @ [MaMo TechnoLabs](https://mamotechnolabs.com/) (Dec 2024 - Jan 2025) <br>
+_Working on an e-commerce website_
+<br><br><br>
+
 ## EDUCATION
 Pursuing B.Tech in Computer Science & Engineering @ [GSFC University](https://www.gsfcuniversity.ac.in/).<br>
-Specializing in AI & ML.<br>
-<br><br>
+Specializing in AI & ML.
+<br><br><br>
 
 ## CERTIFICATIONS
  <!-- Upload certificates on google drive & add links here -->
