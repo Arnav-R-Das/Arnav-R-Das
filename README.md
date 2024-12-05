@@ -40,7 +40,7 @@ _Working on an e-commerce website_
 <br>
 
 **CHROME EXTENSIONS**
--  [Todo list](https://github.com/ArnavDas23/Todo-list) <br> LocalStorage | JavaScript | CSS
+-  [Simple Todo List](https://github.com/ArnavDas23/Simple-Todo-List) <br> LocalStorage | JavaScript | CSS
 -  [URL Blocker](https://github.com/ArnavDas23/URL-Blocker) <br> JavaScript | CSS
 <br>
 
