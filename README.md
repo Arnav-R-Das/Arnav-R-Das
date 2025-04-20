@@ -1,29 +1,35 @@
 ![Arnav's LinkedIn Banner](https://github.com/ArnavDas23/ArnavDas23/assets/127012417/b856c3d4-76d3-46e0-8e00-9d7635e3b848)
 <br><br>
 
-## SKILLS
+## KEY SKILLS
 <br>
+
+**FULL STACK** <br>
+<!-- Springboot | NodeJS | NextJS | ExpressJS | ReactJS | AngularJS | -->
+PHP | MongoDB | MySQL | JavaScript | Bootstrap | CSS | HTML5
+<br><br>
+
 <!--
-**AI/ML** <br>
-numpy | pandas | sklearn | matplotlib | plotly | seaborn | scipy | array
+**MOBILE APP** <br>
+Kotlin | React Native | Flutter
 <br><br>
 -->
 
-**FULL STACK** <br>
-PHP | MySQL | JavaScript | Bootstrap | CSS | HTML5
-<br><br>
-
 **PROGRAMMING** <br>
 Python | Java | C++ | C
-<br><br>
+<br><br><br>
 
-**OTHER** <br>
-GitHub
+## EXPERIENCE
+<br>
+
+**Summer intern Full-stack Developer** @ [MaMo TechnoLabs](https://mamotechnolabs.com/) (Dec 2024 - Jan 2025) <br>
+_Built a furniture e-commerce website using Vanilla JS, PHP and MySQL_
 <br><br><br>
 
 ## PROJECTS
+<br>
 
-<br> **FULL STACK**
+**FULL STACK**
 -  [TurfPlex](https://github.com/ArnavDas23/TurfPlex) <!-- (https://arnavdas.in/TurfPlex) --> <br> PHP | MySQL | JavaScript | CSS
 -  [Portfolio website](https://arnavdas.in) <br> Nginx | PHP | JavaScript | CSS
 -  [Vlogs](https://arnavdas.in/vlogs) <br> PHP | MySQL | JavaScript | CSS
@@ -46,20 +52,10 @@ GitHub
 <!-- -  [StoryOfMyLife  (Gallery App)](https://github.com/ArnavDas23/--------) ﹥ ReactNative -->
 <br>
 
-## EXPERIENCE
-<br>
-
-**Intern Full-stack Developer** @ [MaMo TechnoLabs](https://mamotechnolabs.com/) (Dec 2024 - Jan 2025) <br>
-_Working on an e-commerce website_
-<br><br><br>
-
-## EDUCATION
-Pursuing B.Tech in Computer Science & Engineering @ [GSFC University](https://www.gsfcuniversity.ac.in/).<br>
-Specializing in AI & ML.
-<br><br><br>
-
-## CERTIFICATIONS
+## EDUCATION & CERTIFICATIONS
  <!-- Upload certificates on google drive & add links here -->
+- Pursuing B.Tech in Computer Science & Engineering @ [GSFC University](https://www.gsfcuniversity.ac.in/).<br>
+Specializing in AI & ML.
 -  [NPTEL: Responsible & Safe AI Systems]()
 -  [Azure: AI Fundamentals (AI-900)](https://futureskillsprime.in/artificial-intelligence-and-machine-learning/azure-ai-fundamentals-ai-900)
 -  [C-DAC Bootcamp: UAS/Drone Technology]()
