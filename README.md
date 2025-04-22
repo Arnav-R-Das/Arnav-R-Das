@@ -22,7 +22,7 @@ Python | Java | C++ | C
 ## EXPERIENCE
 <br>
 
-**Summer intern Full-stack Developer** @ [MaMo TechnoLabs](https://mamotechnolabs.com/) (Dec 2024 - Jan 2025) <br>
+**Ex - summer intern Full-stack Developer** @ [MaMo TechnoLabs LLP](https://mamotechnolabs.com/) (Dec 2024 - Jan 2025) <br>
 _Built a furniture e-commerce website using Vanilla JS, PHP and MySQL_
 <br><br><br>
 
