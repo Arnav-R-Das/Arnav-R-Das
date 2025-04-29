@@ -1,4 +1,4 @@
-![Arnav's LinkedIn Banner](https://github.com/ArnavDas23/ArnavDas23/assets/127012417/b856c3d4-76d3-46e0-8e00-9d7635e3b848)
+![Arnav's GitHub Banner](https://github.com/user-attachments/assets/6e37e06c-e229-4d28-b3dc-c8839729f28d)
 <br><br>
 
 ## KEY SKILLS
