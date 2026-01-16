@@ -42,8 +42,10 @@ Final year B.Tech Computer Science student skilled in full-stack development and
 | [Academic Timetable Generator](https://github.com/ArnavDas23/Academic-Timetable-Generator) | Python: CherryPy                                                          |
 -->
 
+<!--
 <br><br>
 
 **GET IN TOUCH!**
 -  [arnavrdas@gmail.com](mailto:arnavrdas@gmail.com)
 -  [linkedin.com/in/arnavrdas](https://www.linkedin.com/in/arnavrdas)
+-->
